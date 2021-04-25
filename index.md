@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Tinker0425/Tinker0425.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-[Google scholar](https://scholar.google.com/citations?user=bCtPxisAAAAJ&hl=en&oi=ao)
-
 ## An Integrated Damage, Visual, and Radar Analysis of the 2013 Moore Oklahoma EF5 Tornado
 
 Tree fall reveals highly convergent surface flow over the majority of the damage path. At times, the convergent flow is observed at radii less than that of the condensation funnel. A photogrammetric analysis of still photos and video show that the damaging winds extend well beyond the condensation funnel location. The condensation funnel often coincides with the EF1, EF2, and EF3 isopleths. A comparison is made between independent ground and aerial surveys that rated 4039 structures along the entire damage path. The aerial survey produces a low bias in EF0 and EF1 ratings. No apparent bias is observed in the EF2-4 categories. It is not possible to draw definitive conclusions concerning the small number of EF5 rated structures.
 [BAMS Paper 2014](https://journals.ametsoc.org/view/journals/bams/95/10/bams-d-14-00033.1.xml)
 
 <img src="tornado2013.png" alt="hi" class="inline"/>
+
+[List of Publications on Google Scholar](https://scholar.google.com/citations?user=bCtPxisAAAAJ&hl=en&oi=ao)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

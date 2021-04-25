@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/Tinker0425/Tinker0425.gith
 
 [Google scholar](https://scholar.google.com/citations?user=bCtPxisAAAAJ&hl=en&oi=ao)
 
+![Image](/Users/kayla/Desktop/GitHubPages/Tinker0425.github.io/tornado2013.png)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown

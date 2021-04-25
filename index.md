@@ -1,3 +1,9 @@
+## Wind Relaxation Events off the United States West Coast
+
+In summertime along the U.S. West Coast, the winds exhibit a three‐stage cycle spanning ∼12 days. The prevailing upwelling‐favorable winds weaken (relax) or reverse off the Pacific Northwest, then reintensify, then weaken off central California. We study the sea‐surface temperature (SST) response to these “northern” and “southern” wind relaxations. [Oceans Paper 2016](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC012613)
+
+<img src="Relax2016.png" alt="hi" class="inline"/>
+
 ## Damage Analysis of the 2013 Moore Oklahoma EF5 Tornado
 
 Tree fall reveals highly convergent surface flow over the majority of the damage path. At times, the convergent flow is observed at radii less than that of the condensation funnel. A photogrammetric analysis of still photos and video show that the damaging winds extend well beyond the condensation funnel location. The condensation funnel often coincides with the EF1, EF2, and EF3 isopleths. A comparison is made between independent ground and aerial surveys that rated 4039 structures along the entire damage path. The aerial survey produces a low bias in EF0 and EF1 ratings. No apparent bias is observed in the EF2-4 categories. It is not possible to draw definitive conclusions concerning the small number of EF5 rated structures.

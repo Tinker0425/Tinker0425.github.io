@@ -5,6 +5,7 @@
 In summertime along the U.S. West Coast, the winds exhibit a three‐stage cycle spanning ∼12 days. The prevailing upwelling‐favorable winds weaken (relax) or reverse off the Pacific Northwest, then reintensify, then weaken off central California. We study the sea‐surface temperature (SST) response to these “northern” and “southern” wind relaxations. [Oceans Paper 2016](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC012613)
 
 
+extra &nbsp;&nbsp; space
 
 
 <img src="tornado2013.png" alt="hi" align="right" class="inline"/>

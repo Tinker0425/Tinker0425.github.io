@@ -5,6 +5,22 @@ Tree fall reveals highly convergent surface flow over the majority of the damage
 
 <img src="tornado2013.png" alt="hi" class="inline"/>
 
+## Wind Analysis
+
+In this study, we present current analyses of surface wind speeds (SWS) for Buzzards Bay,
+Massachusetts and T. F. Green Airport, Rhode Island. The two-parameter Weibull
+distribution is used to characterize the mean hourly wind data at the surface for Buzzards Bay.
+Seasonally at Buzzards Bay, it is shown that mean winds are stronger in the autumn months than in
+summer months. The terrestrial site of T.F. Green Airport show annual trends of SWS decreasing in
+the 1984-2007 dataset. Off shore and on shore observations will also be compared in this context.
+Further analyses of more stations with longer datasets will increase knowledge of the distance scale of
+land and sea breezes on coastal surface winds, which could lead to more accurate air temperature and
+cloud coverage forecasts.
+
+<img src="Winds2012.png" alt="hi" class="inline"/>
+
+[Technical Report 2012](https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1008&context=surfo_tech_reports)
+
 [List of Publications on Google Scholar](https://scholar.google.com/citations?user=bCtPxisAAAAJ&hl=en&oi=ao)
 
 

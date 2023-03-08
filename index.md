@@ -1,3 +1,9 @@
+## Ptyhon: ArcMAP Script to list zones in NWS ASIP Forecast Text Product
+
+Due to the increase of the number of marine zones as of March 8, 2023, this helps the forecaster with the manual entry of zone names. The script answers the question "What are the names of the zones that have sea ice within them?" Find an example of the text product output with human input for the forecast verbage on the [NWS Alaska Sea Ice Program webpage](https://tgftp.nws.noaa.gov/data/raw/fz/fzak80.pafc.ice.afc.txt).
+<img src="ArcMapCapture.PNG" alt="hi" class="inline"/>
+<br /><br /><br />
+
 ## Wind Relaxation Events off the United States West Coast
 
 In summertime along the U.S. West Coast, the winds exhibit a three‐stage cycle spanning ∼12 days. The prevailing upwelling‐favorable winds weaken (relax) or reverse off the Pacific Northwest, then reintensify, then weaken off central California. We study the sea‐surface temperature (SST) response to these “northern” and “southern” wind relaxations. [Oceans Paper 2016](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC012613) 

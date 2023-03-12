@@ -2,7 +2,7 @@
 
 ## Python: Script using arcpy for alaska sea ice program forecast verification using the integrated ice edge error (IIEE).
 
-<embed src="2018_2022_IIEE.pdf" alt="hi" class="inline"/>.
+<img src="2018_2022_IIEE.pdf" alt="hi" class="inline"/>.
 <br /><br /><br />
 
 ## Python: ArcMAP Script to list zones in NWS ASIP Forecast Text Product

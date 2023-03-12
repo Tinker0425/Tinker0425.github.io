@@ -2,6 +2,9 @@
 
 ## Python: Script using arcpy for alaska sea ice program forecast verification using the integrated ice edge error (IIEE).
 
+<embed src="2018_2022_IIEE.pdf" width="800px" height="2100px" />.
+<br /><br /><br />
+
 ## Python: ArcMAP Script to list zones in NWS ASIP Forecast Text Product
 
 Due to the increase of the number of marine zones as of March 8, 2023, this helps the forecaster with the manual entry of zone names. The script answers the question "What are the names of the zones that have sea ice within them?" Find an example of the text product output with human input for the forecast verbage on the [NWS Alaska Sea Ice Program webpage](https://tgftp.nws.noaa.gov/data/raw/fz/fzak80.pafc.ice.afc.txt). <br /> [Github Code](https://github.com/Tinker0425/ForecastTextFile).

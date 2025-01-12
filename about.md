@@ -1,4 +1,16 @@
-## Kayla Tinker
+---
+layout: page
+title: Hi
+subtitle: Data Engineer | Meteorologist | Oceanographer | Former Math Instructor
+permalink: /about/
+---
+
+## About this site
+
+As of January 2025 - my main goal is to use this site as a blog while I take the [data engineering zoomcamp course](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)! You can follow along here, through my [linkedin](https://www.linkedin.com/in/kaylaflynn/), or through [bluesky](https://bsky.app/profile/cloudybluewave.bsky.social).
+<br /><br /><br />
+
+## Snippets of Past Projects
 
 ## Python: Script using arcpy for alaska sea ice program forecast verification using the integrated ice edge error (IIEE).
 [Github Code](https://github.com/Tinker0425/IceEdgeVerification).

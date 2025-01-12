@@ -10,6 +10,9 @@ permalink: /about/
 As of January 2025 - my main goal is to use this site as a blog while I take the [data engineering zoomcamp course](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)! You can follow along here, through my [linkedin](https://www.linkedin.com/in/kaylaflynn/), or through [bluesky](https://bsky.app/profile/cloudybluewave.bsky.social).
 <br /><br /><br />
 
+## Current Work
+My current work and projects are on a private gitlab at the moment, but I hope to make similar projects in my public github repo eventually. This work leans toward 'data engineering', where I use python, sql, and powershell to automate data workflows. 
+
 ## Snippets of Past Projects
 
 ## Python: Script using arcpy for alaska sea ice program forecast verification using the integrated ice edge error (IIEE).

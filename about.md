@@ -43,6 +43,6 @@ distribution is used to characterize the mean hourly wind data at the surface fo
 ![Coastal Winds](Winds2012.png)
 <br /><br /><br />
 
-[Full List of Publications on Google Scholar](https://scholar.google.com/citations?user=bCtPxisAAAAJ&hl=en&oi=ao)
+[Full List of Publications on Google Scholar](https://scholar.google.com/citations?user=gnxY9nEAAAAJ&hl=en)
 
 

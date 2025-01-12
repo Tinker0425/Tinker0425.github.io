@@ -12,10 +12,12 @@ As of January 2025 - my main goal is to use this site as a blog while I take the
 
 ## Current Work
 My current work and projects are on a private gitlab at the moment, but I hope to make similar projects in my public github repo eventually. This work leans toward 'data engineering', where I use python, sql, and powershell to automate data workflows. 
+<br /><br /><br />
 
 ## Snippets of Past Projects
 
-## Python: Script using arcpy for alaska sea ice program forecast verification using the integrated ice edge error (IIEE).
+## Alaska sea ice program forecast verification
+Script using arcpy for the NWS alaska sea ice program (ASIP) forecast verification using the integrated ice edge error (IIEE).
 [Github Code](https://github.com/Tinker0425/IceEdgeVerification).
 ![IIEE](IIEE.png)
 <br /><br /><br />

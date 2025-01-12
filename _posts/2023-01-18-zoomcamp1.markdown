@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DE Zoomcamp 2023: Week 1 Notes"
+subtitle: "Running Document for Week 1"
+date:   2023-01-18 01:50:01
+categories: [data-engineering]
+---
+
+[This post has moved to my dev blog](https://candace.dev/zoomcamp-1/)

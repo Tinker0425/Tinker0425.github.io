@@ -14,7 +14,7 @@ As of January 2025 - my main goal is to use this site as a blog while I take the
 
 ## Python: Script using arcpy for alaska sea ice program forecast verification using the integrated ice edge error (IIEE).
 [Github Code](https://github.com/Tinker0425/IceEdgeVerification).
-![IIEE](2018_2022_IIEE.pdf)
+![IIEE](IIEE.png)
 <br /><br /><br />
 
 ## Python: ArcMAP Script to list zones in NWS ASIP Forecast Text Product

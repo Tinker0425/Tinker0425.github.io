@@ -1,4 +1,4 @@
-## Kayla Tinker (Flynn)
+## Kayla Tinker
 
 ## Python: Script using arcpy for alaska sea ice program forecast verification using the integrated ice edge error (IIEE).
 [Github Code](https://github.com/Tinker0425/IceEdgeVerification).

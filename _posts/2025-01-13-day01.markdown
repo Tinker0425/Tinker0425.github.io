@@ -15,7 +15,9 @@ time 'setting-up' for this course, and what I mean by that is I now have:
 
 ---
 I find that tracking my time in notion and/or using pomodoro helps my productivity.
-![Notion Screenshot Attempt](../day1_notion.png)
+![Notion Screenshot Attempt](day1_notion.png)
+![](https://tinker0425.github.io/data-engineering/2025/01/13/day1_notion.png)
+
 
 As for the course itself - there are a number of apps / sources we are using. I created an 'app section' on my phone and
 that has helped. These apps / websites are:

@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Day 1 of the Data Engineering Zoomcourse!"
+subtitle: "!!!!!!!"
+date:   2025-01-13 16:42:00
+categories: [data-engineering]
+---
+Day 1 of a new class is always so exciting! A blank slate and that 
+new notebook smell. I must admit I have spent way too much 
+time 'setting-up' for this course, and what I mean by that is I now have:
+- A blog - that you're reading right now!
+- A github repo for my hw here - https://github.com/Tinker0425/data-engineering-zoomcamp-my-work
+- A gitbook in the works, that will host my notes 'like a book' - has anyone ever done this before?! Here is my link - https://data-engineering-zoomcamp-2025-t.gitbook.io/tinker0425/
+- A notion dashboard (private at the moment)
+
+---
+I find that tracking my time in notion and/or using pomodoro helps my productivity.
+![Notion Screenshot Attempt](day1_notion.png)
+
+As for the course itself - there are a number of apps / sources we are using. I created an 'app section' on my phone and
+that has helped. These apps / websites are:
+- Slack
+- Github
+- Telegram
+- Youtube
+- Google Docs
+- Google Calendar
+
+For the start of the course, I already had python and pycharm, 
+but needed to download on my Mac:
+- docker desktop 
+- google cloud platform (GCP) 
+
+
+***
+Interesting in joining the course?! I am writing this 1/13/25 and you can still join
+the Data Engineering Zoomcamp Cohort 2025 here or if you're late to 
+reading this, the material should still live here - https://github.com/DataTalksClub/data-engineering-zoomcamp/
+

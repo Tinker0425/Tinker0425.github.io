@@ -16,7 +16,7 @@ time 'setting-up' for this course, and what I mean by that is I now have:
 ---
 I find that tracking my time in notion and/or using pomodoro helps my productivity.
 ![day1_notion.png](../assets/images/day1_notion.png)
-![Alt text]({{ site.baseurl }}/assets/images/my-day1_notion.jpg)
+![Alt text]({{ site.baseurl }}/assets/images/day1_notion.jpg)
 
 
 As for the course itself - there are a number of apps / sources we are using. I created an 'app section' on my phone and

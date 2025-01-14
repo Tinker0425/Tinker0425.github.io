@@ -8,7 +8,7 @@ title: Kayla Tinker
 description: >
   Hello! My name is Kayla Tinker. Welcome to my blog. 
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "http://tinker0425.github.io" # the base hostname & protocol for your site
 
 author:

@@ -7,20 +7,19 @@ categories: [data-engineering]
 ---
 Day 1 of a new class is always so exciting! A blank slate and that 
 new notebook smell. I must admit I have spent way too much 
-time 'setting-up' for this course, and what I mean by that is I now have a:
-
-- Blog - that you're reading right now!
-- [Github repo](https://github.com/Tinker0425/data-engineering-zoomcamp-my-work) for my course homework
-- [Gitbook](https://data-engineering-zoomcamp-2025-t.gitbook.io/tinker0425/) in the works, that will host my notes 'like a book' - has anyone ever done this before?!
-- Notion dashboard (private at the moment)
+time 'setting-up' for this course, and what I mean by that is 
+I now have a Blog, that you're reading right now!,
+a [Github repo](https://github.com/Tinker0425/data-engineering-zoomcamp-my-work) for my course homework, a 
+[Gitbook](https://data-engineering-zoomcamp-2025-t.gitbook.io/tinker0425/) that is in the works and will host my notes 'like a book' - has anyone ever done this before?! -
+and a Notion dashboard that is private at the moment.
 
 ---
 I find that tracking my time in notion and/or using pomodoro helps my productivity.
 ![day1_notion.png](https://github.com/Tinker0425/Tinker0425.github.io/raw/main/assets/images/day1_notion.png)
 
 
-As for the course itself - there are a number of apps / sources we are using. I created an 'app section' on my phone and
-that has helped. These apps / websites are [Slack](https://datatalks-club.slack.com/archives/C01FABYF2RG), 
+As for the course itself - there are a number of websites we are using. I created an 'app section' on my phone and
+that has helped. These apps are [Slack](https://datatalks-club.slack.com/archives/C01FABYF2RG), 
 [Github](https://github.com/DataTalksClub/data-engineering-zoomcamp), 
 [Telegram](https://t.me/dezoomcamp),
 [Youtube](https://www.youtube.com/@DataTalksClub),
@@ -28,9 +27,10 @@ that has helped. These apps / websites are [Slack](https://datatalks-club.slack.
 [Google Calendar](https://calendar.google.com/calendar/embed?src=er1r053veb2iqu4u1fhm635q0o%40group.calendar.google.com&ctz=America%2FAnchorage)
 
 For the start of the course, I already had python and pycharm, 
-but needed to download on my Mac:
-- docker desktop 
-- google cloud platform (GCP) 
+but needed to download on my Mac docker desktop and google cloud platform (GCP), so far!
+
+I have started a few of the youtube videos and hope to make more progress tomorrow as I 
+just spent way too long trying to figure out how to get an image on my blog :/.
 
 
 ***

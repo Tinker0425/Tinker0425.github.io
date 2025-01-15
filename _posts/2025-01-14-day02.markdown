@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Day 2: It was the virtual environment"
+subtitle: "Data Engineering Zoomcourse"
+date:   2025-01-14 20:42:00
+categories: [data-engineering]
+---
+Day 2 and of course I am falling behind on the blog already. I spent way too much time
+last night trying to figure out an issue I was having...and of course...
+it was an issue with my virtual environment, ugh!
+
+My error was during [video 1.2.2](https://youtu.be/2JM-ziJt0WI?si=mhLdk-9UydzF2fky), 
+while working in the jupyter notebook. The error was "SQLAlchemy - NoSuchModuleError: Can't load plugin: sqlalchemy.dialects:postgresql.psycopg"
+
+To try and figure out the cause of the error I searched the [FAQ](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?tab=t.0),
+the [Slack Channel](https://datatalks-club.slack.com/archives/C01FABYF2RG), searched google, and tried chatgpt, but could not figure it out.
+There was a somewhat similar post in the slack where the solution was the virtual environment,
+but for some reason I was ignorant and thought, no way! lol. 
+
+I got to the point where I needed help - so off to slack I went and [posted](https://datatalks-club.slack.com/archives/C01FABYF2RG/p1736917464616799):
+![Slack Message](https://github.com/Tinker0425/Tinker0425.github.io/blob/main/assets/images/day2_slack.png)
+
+Bruno Oliveira, one of the instructors this year, quickly responded. He was able
+to meet with me through Slack and he not only efficiently debuged and solve my issue,
+but taught me so much about virtual environments at the same time. Bruno is an outstanding
+teacher and I appreciate having him in this course, thank you - thank you Bruno! I was able
+to sleep soundly after this haa.
+
+Now, the [FAQ](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?tab=t.0#heading=h.dcoedjsa6bzh) 
+are now updated to include this error and the fact that the solution was
+my virtual environment. So lesson of the night, when in doubt, **create a new environment and
+test to see if you're still getting the same error message!**
+
+My plan is to add a virtual environment section to my notes in [Gitbook](https://data-engineering-zoomcamp-2025-t.gitbook.io/tinker0425/)
+
+
+***
+Interesting in joining the course?! I am writing this 1/14/25 and you can still join
+the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) or if you're late to 
+reading this, the material should still live there.
+

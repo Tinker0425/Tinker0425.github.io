@@ -18,7 +18,8 @@ There was a somewhat similar post in the slack where the solution was the virtua
 but for some reason I was ignorant and thought, no way! lol. 
 
 I got to the point where I needed help - so off to slack I went and [posted](https://datatalks-club.slack.com/archives/C01FABYF2RG/p1736917464616799):
-![Slack Message](https://github.com/Tinker0425/Tinker0425.github.io/blob/main/assets/images/day2_slack.png)
+![day2_slack.png](https://github.com/Tinker0425/Tinker0425.github.io/raw/main/assets/images/day2_slack.png)
+
 
 Bruno Oliveira, one of the instructors this year, quickly responded. He was able
 to meet with me through Slack and he not only efficiently debuged and solve my issue,
@@ -35,7 +36,7 @@ My plan is to add a virtual environment section to my notes in [Gitbook](https:/
 
 
 ***
-Interesting in joining the course?! I am writing this 1/14/25 and you can still join
+Interested in joining the course?! I am writing this 1/14/25 and you can still join
 the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) or if you're late to 
 reading this, the material should still live there.
 

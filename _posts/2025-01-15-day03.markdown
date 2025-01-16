@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Day 3 - Finally got through 1.2.3"
+subtitle: "Turtle Pace"
+date:   2025-01-15 21:42:00
+categories: [data-engineering]
+---
+Day 3 of working through the [Data Engineering Zoomcamp Course](https://github.com/DataTalksClub/data-engineering-zoomcamp/) 
+and ran into another issue while running the jupyter notebook. I ended
+up just creating my 3rd virtual environment, restarting everything, and that
+solved the problem again. 
+
+Time tracking wise, I am doing about 4 hours a night. I will say about half my time spent
+so far has been due to virtual environment issues, so that has been frustrating. BUT maybe
+I am close to becoming a pro with `conda create -n myenv python=3.12` :). This is also
+likely a part of why we have 2 weeks to complete module 1, while we have 1 week for the other
+modules. 
+
+So, I was finally able to make it through [video 1.2.3](https://youtu.be/hCAIVe9N0ow?si=s07-aBQYqF91Wjpr).
+My strategy through this course is that I watch the videos with CC at 1.75 speed first, just
+to get an idea of what is going on, what may need to be downloaded, what weblinks we are
+looking at etc. Then, I go back to where I left off with my work and pick up from there. I find that
+this method of seeing the videos multiple times helps me understand the concepts.
+
+
+If you are using Ubuntu 18.04 WSL2, this [medium article](https://medium.com/@ywg/data-engineering-zoomcamp-series-my-notes-8fd1f4706716)
+was shared in the slack channel and is very organized!
+
+Hoping to make some more progress in my [Gitbook](https://data-engineering-zoomcamp-2025-t.gitbook.io/tinker0425/) tonight. 
+
+***
+Interested in joining the course?! I am writing this 1/15/25 and you can still join
+the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) or if you're late to 
+reading this, the material should still live there.
+

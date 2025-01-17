@@ -20,7 +20,7 @@ go through one...two...three different methods to do something. I may google som
 these options and figure out which way is the most popular or efficient for someone working
 from a Mac, but I am unsure of what documentation method I will take here. 
 
-There are also some great [community ntes](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform#community-notes).
+There are also some great [community notes](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform#community-notes).
 I had one set open today + the youtube video + my Google
 cloud platform, and that method worked really well. BUT some notes are out of date and
 sometimes portions of the videos are too, so that keeps you on your toes.

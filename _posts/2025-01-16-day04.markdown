@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Day 4 - Getting into a Groove"
+subtitle: "Emperor's New Groove"
+date:   2025-01-16 19:42:00
+categories: [data-engineering]
+---
+Day 4 and things were much smoother today, as in I don't think I encountered
+any bugs or issues running things. I made it up to video [1.3.3](https://www.youtube.com/watch?v=PBi0hHjLftk&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb&index=13)
+and really, truly do plan on going back into my [Gitbook](https://data-engineering-zoomcamp-2025-t.gitbook.io/tinker0425/) to update items tonight!
+I think I would like to make some sort of checklist to help users follow-along with 
+the course, as sometimes I feel I get lost.
+
+One thing that has been helping me stay organized with this course is creating 
+a [google chrome tab group](https://www.google.com/chrome/tips/#:~:text=Expand%20all-,Create,-your%20tab%20group). 
+This way, I can open all the content I need at once. 
+
+An area where I am unsure of the best method to document notes is how the videos may 
+go through one...two...three different methods to do something. I may google some of 
+these options and figure out which way is the most popular or efficient for someone working
+from a Mac, but I am unsure of what documentation method I will take here. 
+
+There are also some great [community ntes](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform#community-notes).
+I had one set open today + the youtube video + my Google
+cloud platform, and that method worked really well. BUT some notes are out of date and
+sometimes portions of the videos are too, so that keeps you on your toes.
+
+Also - if you are interested in making a blog similar to mine, it looks like
+there is an easier way here at [bearblog](https://bearblog.dev/)!
+
+
+***
+Interested in joining the course?! I am writing this 1/16/25 and you can still join
+the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) or if you're late to 
+reading this, the material should still live there.

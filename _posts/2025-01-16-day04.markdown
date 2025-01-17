@@ -11,6 +11,8 @@ and really, truly do plan on going back into my [Gitbook](https://data-engineeri
 I think I would like to make some sort of checklist to help users follow-along with 
 the course, as sometimes I feel I get lost.
 
+![https://2danicritic.github.io/index_files/ReviewImages/review_The_Emperor's_New_Groove2.jpg](https://2danicritic.github.io/index_files/ReviewImages/review_The_Emperor's_New_Groove2.jpg)
+
 One thing that has been helping me stay organized with this course is creating 
 a [google chrome tab group](https://www.google.com/chrome/tips/#:~:text=Expand%20all-,Create,-your%20tab%20group). 
 This way, I can open all the content I need at once. 

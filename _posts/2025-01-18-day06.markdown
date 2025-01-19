@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Day 6 - Third time's a charm?"
+subtitle: "or the fourth or the fifth or the..."
+date:   2025-01-18 20:42:00
+categories: [data-engineering]
+---
+Day 6 of the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) course, and I am going back 
+through the course work again. Is it my 3rd time or my fourth or
+my fifth? The days blend together ha. My strategy, as I've talked about before,
+is to first go through the videos with CC and high speed, then go back and actually work
+through the steps. 
+
+![https://www.unioncountydailydigital.com/wp-content/uploads/2022/10/Beetlejuice.png](https://www.unioncountydailydigital.com/wp-content/uploads/2022/10/Beetlejuice.png)
+
+Now, for the 3rd time, I am going back through and writing up notes in
+my [Gitbook](https://data-engineering-zoomcamp-2025-t.gitbook.io/tinker0425/). This time around I also have up in my browser additional resources.
+For [1.2.1 - Intro to Docker](https://www.youtube.com/watch?v=EYNwNlOrpr0&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb&index=4)
+for example I am looking at the [docker website](https://docs.docker.com/get-started/docker-overview/)
+plus other student notes plus google. Seeing the same thing such as "What is docker?" 
+explained in 3 different ways, really helps my brain finally understand what is happening 
+in this section.
+
+I really feel like it clicked today, BUT I know that there will always be new things to learn 
+and mistakes to be fixed...
+
+***
+Interested in joining the course?! I am writing this 1/18/25 and you can still join
+the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) or if you're late to 
+reading this, the material should still live there.

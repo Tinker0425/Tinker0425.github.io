@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 9 - A Whale's Tail"
+subtitle: "is called a fluke"
+date:   2025-01-21 21:42:00
+categories: [data-engineering]
+---
+Day 8 
+
+***
+Interested in joining the course?! I am writing this 1/21/25 and you can still join
+the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) or if you're late to 
+reading this, the material should still live there.

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Day 8 - A Whale's Tail"
-subtitle: "is called a fluke"
-date:   2025-01-20 13:20:00
+subtitle: "...is called a fluke"
+date:   2025-01-20 21:42:00
 categories: [data-engineering]
 ---
 Day 8 of the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) course, and my focus
@@ -18,10 +18,16 @@ to the [community forum](https://forums.docker.com/t/where-does-the-idea-of-a-wh
 the whale logo came from the winner of a contest! I guess it used to be a more
 friendly looking whale according to [reddit](https://www.reddit.com/r/webdev/comments/cqbp10/docker_changed_their_icons_goodbye_friendly_whale/).
 
+![docker-logo-blue.png](https://github.com/Tinker0425/Tinker0425.github.io/raw/main/assets/images/docker-logo-blue.png)
+
+[Source](https://www.docker.com/company/newsroom/media-resources/)
+
 But I still love this. Could be
 because of my background in oceanography, or my love for Juneau Alaska, or 
 maybe it brings back discussions of the [Whale's Tail Waterpark](https://whalestalewaterpark.net/)
 in NH. 
+
+![Juneau Whale](https://github.com/Tinker0425/Tinker0425.github.io/raw/main/assets/images/day8_whale.png)
 
 Anyways, all of this to say that maybe I am enjoying learning Docker more because
 I like whales lol? The logo is really just the coolest!

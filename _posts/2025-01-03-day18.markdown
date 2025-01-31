@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Day 18 - Go with the Flow"
+subtitle: " ...with Kestra"
+date:   2025-01-30 18:30:00
+categories: [data-engineering]
+---
+Day 18 of the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) course, and where
+does the time go! There have been other topics on my mind of late, and thus 
+blogging was moved to the side, but hoping to get back into the flow of things.
+
+My [Gitbook](https://data-engineering-zoomcamp-2025-t.gitbook.io/tinker0425/) notes have been surprisingly consistent. I am hoping to have 
+module 2 notes mostly done today or tomorrow, as my homework will be finished 
+tonight. And speaking of homework, homework 1 grades and the [leaderboard](https://courses.datatalks.club/de-zoomcamp-2025/leaderboard)
+are out for the 2025 cohort. My humblebrag is I am in the top 5 with 15 points at the moment. 
+Feel free to follow-along as the weeks go by, my username is 'Cloudy Bluewave'.
+
+Ok so week 2 is [Kestra](https://kestra.io/), and I have been really enjoying this week. My only issue
+so far was getting caught up with a docker-compose.yml, that I still do not
+have a fix for :/ The way Kestra way described to us in the videos was as an 
+'Orchestra' and we need to tell the instruments when to come in and play. 
+
+![day18_orchestra.png](https://github.com/Tinker0425/Tinker0425.github.io/raw/main/assets/images/day18_orchestra.png)
+[Source](https://www.freepik.com/free-photos-vectors/symphony-orchestra)
+
+Down to the studs, you are just building a work flow. In my day-to-day, the tool
+I use to do this is powershell. But it would be so nice if we had something
+with a use interface that could be used. Another way I could describe is
+like powerautomate, but a million times better and with great documentation.
+
+If you're interested in learning more about Kestra, I highly recommend going through
+Will Russell's youtube videos for module 2 here in the [zoomcamp playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb).
+
+***
+Interested in joining the course?! I am writing this 1/30/25 and you can still join
+the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) or if you're late to 
+reading this, the material should still live there.

@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Day 19 - Typos in Code"
+subtitle: " ...the worst"
+date:   2025-01-31 19:30:00
+categories: [data-engineering]
+---
+Day 19 of the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) course and back to
+being ahead of schedule, which feels good. These weeks go by so fast, I wish
+each module was 2 weeks versus 1! I will have my homework 2 updated Monday
+and then re-updated with solutions in my gitbook sometime next week.
+
+Anyways - in part of my last post I talked about an issue I was having with
+a docker-compose.yml not working with dbt...and guess what the issue was? A typo!
+On my end, human error, I decided to type something out as I saw it instead
+of copy and paste! So the issue was a `-` versus `_`. Painful that it
+took two days, plus bugging Bruno again on Slack to figure this out! And
+as you can tell from my blogs, I usually type things wrong as it is haa.
+Hopefully lesson learned, and I copy and paste db and host names from now on!
+
+I think my [Gitbook](https://data-engineering-zoomcamp-2025-t.gitbook.io/tinker0425/) notes are mostly up-to-date. I'm not sure if
+I will go back through the Kestra module and add more information. 
+I hopefully will though, and rewrite those docker-compose.yml into
+something I would actually understand, versus using someone else's code.
+
+***
+Interested in joining the course?! I am writing this 1/30/25 and you can still join
+the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) or if you're late to 
+reading this, the material should still live there. You can also follow
+along weekly, by checking the [leaderboard](https://courses.datatalks.club/de-zoomcamp-2025/leaderboard) to find homework submissions
+and links to github repos and #learninginpublic - my username is 'Cloudy Bluewave'.

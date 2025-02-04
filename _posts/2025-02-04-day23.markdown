@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Day 23 - February already"
+subtitle: " ...where does the time go"
+date:   2025-02-04 18:30:00
+categories: [data-engineering]
+---
+Day 23 of the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) course and I
+can't believe we are moving on to week 3 already! The week 2 homework
+deadline was pushed a bit, and hopefully I will have the solution to update
+my gitbook sometime later this week. The homework was a bit different
+this week as I did not use any SQL code to obtain the solutions. Fingers
+crossed my score remains good. 
+
+I have gotten my first note on my [Gitbook](https://data-engineering-zoomcamp-2025-t.gitbook.io/tinker0425/), and really appreciated it! Cool to
+see that people are really spending time reading it. I will say that for this 
+chapter I was confused on certain parts, and the docker-compose.yml
+changed a bunch of times. But otherwise, I think the main concepts and
+how the flow works was easy to understand.
+
+***
+Interested in joining the course?! I am writing this 2/4/25 and you can still join
+the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) or if you're late to 
+reading this, the material should still live there. You can also follow
+along weekly, by checking the [leaderboard](https://courses.datatalks.club/de-zoomcamp-2025/leaderboard) to find homework submissions
+and links to github repos and #learninginpublic - my username is 'Cloudy Bluewave'.

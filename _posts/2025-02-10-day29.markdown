@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Day 29 - How hard could it be?"
+subtitle: " ...boys do it"
+date:   2025-02-10 19:31:00
+categories: [data-engineering]
+---
+Day 29 of the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) course and we now have 
+small group of women_of_dtc in slack thanks to Marcella! Coming from STEM in general
+and especially in the field of meteorology and mathematics, I was still
+very surprised about the disproportionate number of women in the course, or at least
+what I see in the slack channel. It will be great to have a sub community
+for support. 
+
+This past week, we got our scores back for HW 2, and I guess I am going to strive 
+for perfection now, as I continue to be tied in first with 'SpreadSheetStation' and
+'Dehao Zhang', go us! As for module 3, we learned about BigQuery with a focus on 
+partitioning and clustering. This module I found was very easy to follow 
+and understand, and time wise has been my most efficient. 
+ 
+I am keeping my [Gitbook](https://data-engineering-zoomcamp-2025-t.gitbook.io/tinker0425/) notes and homework additions up to date. This week 
+I will be working on the workshop portion of the course, once my wifi is strong
+enough to play the youtube recording of the live session :). Thanks for following along!
+
+***
+Interested in joining the course?! I am writing this 2/10/25 and you can still join
+the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) or if you're late to 
+reading this, the material should still live there. You can also follow
+along weekly, by checking the [leaderboard](https://courses.datatalks.club/de-zoomcamp-2025/leaderboard) to find homework submissions
+and links to github repos and #learninginpublic - my username is 'Cloudy Bluewave'.

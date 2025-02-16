@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Day 34 - dlt!"
+subtitle: " ...data load tool"
+date:   2025-02-15 15:30:00
+categories: [data-engineering]
+---
+Day 35 of the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) course and this
+was the workshop week! We learned about the data load tool dlt! This is 
+and open source library for python the makes data load easy and you
+can learn more [here](https://github.com/dlt-hub).
+
+I really enjoy that within the dlt github, and also for the workshop
+we used ipython notebook in google colab to walk through the
+process. I find it is a great learning tool! With the homework,
+I was successful in creating my pipeline with dlt which pulls data 
+from an API and loads it to duckdb in this case.
+
+So what is the difference between dlt and dbt besides one letter? 
+dlt is good for data ingestion (at the start of your pipeline), 
+while dbt is good for data transformation and modeling, usually at the end!
+
+Check out my [Gitbook](https://data-engineering-zoomcamp-2025-t.gitbook.io/tinker0425/) notes and homework solutions and feel free
+to leave me a note in issues or ask any questions!
+
+***
+Interested in joining the course?! I am writing this 2/15/25 and you can still join
+the [Data Engineering Zoomcamp Cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/) or if you're late to 
+reading this, the material should still live there. You can also follow
+along weekly, by checking the [leaderboard](https://courses.datatalks.club/de-zoomcamp-2025/leaderboard) to find homework submissions
+and links to github repos and #learninginpublic - my username is 'Cloudy Bluewave'.
